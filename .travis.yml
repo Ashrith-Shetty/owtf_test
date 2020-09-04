@@ -37,7 +37,3 @@ script:
   #- python -m unittest tests.functional.cli.test_scope
   #- python -m unittest tests.functional.cli.test_type
   - python -m unittest tests.functional.plugins.web
-notifications:
-  email: false
-  slack:
-    secure: okaGyJfCrXFExrF9j71HPQQQXyU5ZMKvteRjBC1Tnx7EpjtAtTm4f0f08PY/EtqSpkQpWDqcXea/0OkQIsks5slaa+vZHxEoW13bzqHQRBikE0nsgQVmV3g1U06gBilE9cqY+8D3fJcAEIZDHIeguf1B0vNzFL14s3nFgn4QVjg=
